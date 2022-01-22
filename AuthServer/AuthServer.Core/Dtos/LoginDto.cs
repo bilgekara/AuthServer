@@ -5,7 +5,7 @@ namespace AuthServer.Core.Dtos
     {
         public string Email { get; set; }
 
-        public struct Password { get; set; }
+        public string Password { get; set; }
         // bu bilgiler requestten gelecek, eşleşirse token dönülecek
     }
 }
