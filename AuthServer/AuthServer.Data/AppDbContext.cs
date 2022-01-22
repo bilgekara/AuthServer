@@ -9,7 +9,7 @@ namespace AuthServer.Data
     public class AppDbContext : IdentityDbContext<UserApp, IdentityRole, string>
 	{
 		// DbContextOptions -> startupda doldurucam, base ctor'a göndericem
-		public AppDbContext(DbContextOptions<AppDbContext> options : base(options)
+		public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
 		{
 		}
 
@@ -22,6 +22,8 @@ namespace AuthServer.Data
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
+            // sen bana bir assembly ver -> assembly içindeki tüm configuration dosyalarını bulup eklicem
+            builder.ApplyConfigurationsFromAssembly(GetType().Assembly);
             base.OnModelCreating(builder);
         }
     }
