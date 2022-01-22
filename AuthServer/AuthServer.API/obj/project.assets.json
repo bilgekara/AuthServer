@@ -1011,11 +1011,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.API/AuthServer.API.csproj",
+      "projectUniqueName": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.API/AuthServer.API.csproj",
       "projectName": "AuthServer.API",
-      "projectPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.API/AuthServer.API.csproj",
+      "projectPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.API/AuthServer.API.csproj",
       "packagesPath": "/Users/bilgenurkara/.nuget/packages/",
-      "outputPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.API/obj/",
+      "outputPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bilgenurkara/.config/NuGet/NuGet.Config"
@@ -1030,11 +1030,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Service/AuthServer.Service.csproj": {
-              "projectPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Service/AuthServer.Service.csproj"
+            "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Service/AuthServer.Service.csproj": {
+              "projectPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Service/AuthServer.Service.csproj"
             },
-            "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj": {
-              "projectPath": "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj"
+            "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/SharedLibrary.csproj": {
+              "projectPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/SharedLibrary.csproj"
             }
           }
         }

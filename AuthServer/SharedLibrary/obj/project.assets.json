@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj",
+      "projectUniqueName": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/SharedLibrary.csproj",
       "projectName": "SharedLibrary",
-      "projectPath": "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj",
+      "projectPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/SharedLibrary.csproj",
       "packagesPath": "/Users/bilgenurkara/.nuget/packages/",
-      "outputPath": "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/obj/",
+      "outputPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bilgenurkara/.config/NuGet/NuGet.Config"

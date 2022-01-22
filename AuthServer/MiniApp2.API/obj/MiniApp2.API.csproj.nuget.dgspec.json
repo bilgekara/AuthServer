@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bilgenurkara/Projects/AuthServer/MiniApp2.API/MiniApp2.API.csproj": {}
+    "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/MiniApp2.API/MiniApp2.API.csproj": {}
   },
   "projects": {
-    "/Users/bilgenurkara/Projects/AuthServer/MiniApp2.API/MiniApp2.API.csproj": {
+    "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/MiniApp2.API/MiniApp2.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bilgenurkara/Projects/AuthServer/MiniApp2.API/MiniApp2.API.csproj",
+        "projectUniqueName": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/MiniApp2.API/MiniApp2.API.csproj",
         "projectName": "MiniApp2.API",
-        "projectPath": "/Users/bilgenurkara/Projects/AuthServer/MiniApp2.API/MiniApp2.API.csproj",
+        "projectPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/MiniApp2.API/MiniApp2.API.csproj",
         "packagesPath": "/Users/bilgenurkara/.nuget/packages/",
-        "outputPath": "/Users/bilgenurkara/Projects/AuthServer/MiniApp2.API/obj/",
+        "outputPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/MiniApp2.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bilgenurkara/.config/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj": {
-                "projectPath": "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj"
+              "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/SharedLibrary.csproj": {
+                "projectPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/SharedLibrary.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj": {
+    "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/SharedLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj",
+        "projectUniqueName": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/SharedLibrary.csproj",
         "projectName": "SharedLibrary",
-        "projectPath": "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj",
+        "projectPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/SharedLibrary.csproj",
         "packagesPath": "/Users/bilgenurkara/.nuget/packages/",
-        "outputPath": "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/obj/",
+        "outputPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bilgenurkara/.config/NuGet/NuGet.Config"

@@ -10,3 +10,15 @@
 /Users/bilgenurkara/Projects/AuthServer/SharedLibrary/obj/Debug/net6.0/SharedLibrary.dll
 /Users/bilgenurkara/Projects/AuthServer/SharedLibrary/obj/Debug/net6.0/ref/SharedLibrary.dll
 /Users/bilgenurkara/Projects/AuthServer/SharedLibrary/obj/Debug/net6.0/SharedLibrary.pdb
+/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/bin/Debug/net6.0/SharedLibrary.deps.json
+/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/bin/Debug/net6.0/SharedLibrary.dll
+/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/bin/Debug/net6.0/ref/SharedLibrary.dll
+/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/bin/Debug/net6.0/SharedLibrary.pdb
+/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/obj/Debug/net6.0/SharedLibrary.csproj.AssemblyReference.cache
+/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/obj/Debug/net6.0/SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/obj/Debug/net6.0/SharedLibrary.AssemblyInfoInputs.cache
+/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/obj/Debug/net6.0/SharedLibrary.AssemblyInfo.cs
+/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/obj/Debug/net6.0/SharedLibrary.csproj.CoreCompileInputs.cache
+/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/obj/Debug/net6.0/SharedLibrary.dll
+/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/obj/Debug/net6.0/ref/SharedLibrary.dll
+/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/obj/Debug/net6.0/SharedLibrary.pdb

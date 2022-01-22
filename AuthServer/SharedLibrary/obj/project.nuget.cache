@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BzEwzC7QF0IcKoKINOy/fhqvJBCD1w5+ZYd3Q2mE6I3Cm7u2uaalQgCIdpyeH9jZLjrMxJvBlIdcE1YN6xaFMg==",
+  "dgSpecHash": "l4ZCe5LBf0BSLs24npJoXMl/o3eAAIu/CBvBXF3juVc3guEUR4YlqbEBMjzlMt7ATajkwv2Uv2CqX154n0UcyA==",
   "success": true,
-  "projectFilePath": "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj",
+  "projectFilePath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/SharedLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

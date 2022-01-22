@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Service/AuthServer.Service.csproj": {}
+    "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Service/AuthServer.Service.csproj": {}
   },
   "projects": {
-    "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Core/AuthServer.Core.csproj": {
+    "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Core/AuthServer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Core/AuthServer.Core.csproj",
+        "projectUniqueName": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Core/AuthServer.Core.csproj",
         "projectName": "AuthServer.Core",
-        "projectPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Core/AuthServer.Core.csproj",
+        "projectPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Core/AuthServer.Core.csproj",
         "packagesPath": "/Users/bilgenurkara/.nuget/packages/",
-        "outputPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Core/obj/",
+        "outputPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bilgenurkara/.config/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj": {
-                "projectPath": "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj"
+              "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/SharedLibrary.csproj": {
+                "projectPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/SharedLibrary.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Data/AuthServer.Data.csproj": {
+    "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Data/AuthServer.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Data/AuthServer.Data.csproj",
+        "projectUniqueName": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Data/AuthServer.Data.csproj",
         "projectName": "AuthServer.Data",
-        "projectPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Data/AuthServer.Data.csproj",
+        "projectPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Data/AuthServer.Data.csproj",
         "packagesPath": "/Users/bilgenurkara/.nuget/packages/",
-        "outputPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Data/obj/",
+        "outputPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bilgenurkara/.config/NuGet/NuGet.Config"
@@ -88,8 +88,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Core/AuthServer.Core.csproj": {
-                "projectPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Core/AuthServer.Core.csproj"
+              "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Core/AuthServer.Core.csproj": {
+                "projectPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Core/AuthServer.Core.csproj"
               }
             }
           }
@@ -122,14 +122,14 @@
         }
       }
     },
-    "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Service/AuthServer.Service.csproj": {
+    "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Service/AuthServer.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Service/AuthServer.Service.csproj",
+        "projectUniqueName": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Service/AuthServer.Service.csproj",
         "projectName": "AuthServer.Service",
-        "projectPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Service/AuthServer.Service.csproj",
+        "projectPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Service/AuthServer.Service.csproj",
         "packagesPath": "/Users/bilgenurkara/.nuget/packages/",
-        "outputPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Service/obj/",
+        "outputPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Service/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bilgenurkara/.config/NuGet/NuGet.Config"
@@ -144,8 +144,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Data/AuthServer.Data.csproj": {
-                "projectPath": "/Users/bilgenurkara/Projects/AuthServer/AuthServer.Data/AuthServer.Data.csproj"
+              "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Data/AuthServer.Data.csproj": {
+                "projectPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Data/AuthServer.Data.csproj"
               }
             }
           }
@@ -178,14 +178,14 @@
         }
       }
     },
-    "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj": {
+    "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/SharedLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj",
+        "projectUniqueName": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/SharedLibrary.csproj",
         "projectName": "SharedLibrary",
-        "projectPath": "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/SharedLibrary.csproj",
+        "projectPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/SharedLibrary.csproj",
         "packagesPath": "/Users/bilgenurkara/.nuget/packages/",
-        "outputPath": "/Users/bilgenurkara/Projects/AuthServer/SharedLibrary/obj/",
+        "outputPath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/SharedLibrary/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bilgenurkara/.config/NuGet/NuGet.Config"
