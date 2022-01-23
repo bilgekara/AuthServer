@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "lNCR4i6Dgd2H3ZfGDkv+dnvcrI6attTOSPCHmniNeVv5nJrHDnugX+I1bAuD5kRAlcU6jTvaQjALqcVSB7hvoQ==",
+  "dgSpecHash": "UfjJCEMGilD0nIQcTFGXlRT6jfmbMs7Z3rJ9M7GdFAVP6IMuhbbPft6x3KETUn0J3f6xD5zcPFngq6Vu+SVsFQ==",
   "success": true,
   "projectFilePath": "/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.API/AuthServer.API.csproj",
   "expectedPackageFiles": [
+    "/Users/bilgenurkara/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/Users/bilgenurkara/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.1/microsoft.aspnetcore.cryptography.internal.6.0.1.nupkg.sha512",
     "/Users/bilgenurkara/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/6.0.1/microsoft.aspnetcore.cryptography.keyderivation.6.0.1.nupkg.sha512",
     "/Users/bilgenurkara/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/6.0.1/microsoft.aspnetcore.identity.entityframeworkcore.6.0.1.nupkg.sha512",
-    "/Users/bilgenurkara/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/bilgenurkara/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/bilgenurkara/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "/Users/bilgenurkara/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "/Users/bilgenurkara/.nuget/packages/microsoft.entityframeworkcore/6.0.1/microsoft.entityframeworkcore.6.0.1.nupkg.sha512",

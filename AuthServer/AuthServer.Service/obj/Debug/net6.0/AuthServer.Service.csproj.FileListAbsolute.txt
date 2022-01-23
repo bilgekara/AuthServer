@@ -17,3 +17,8 @@
 /Users/bilgenurkara/Projects/AuthServer/AuthServer.Service/obj/Debug/net6.0/AuthServer.Service.pdb
 /Users/bilgenurkara/Projects/AuthServer/AuthServer.Service/bin/Debug/net6.0/SharedLibrary.dll
 /Users/bilgenurkara/Projects/AuthServer/AuthServer.Service/bin/Debug/net6.0/SharedLibrary.pdb
+/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Service/obj/Debug/net6.0/AuthServer.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Service/obj/Debug/net6.0/AuthServer.Service.AssemblyInfoInputs.cache
+/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Service/obj/Debug/net6.0/AuthServer.Service.AssemblyInfo.cs
+/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Service/obj/Debug/net6.0/AuthServer.Service.csproj.CoreCompileInputs.cache
+/Users/bilgenurkara/Documents/GitHub/AuthServer/AuthServer/AuthServer.Service/obj/Debug/net6.0/AuthServer.Service.csproj.AssemblyReference.cache
